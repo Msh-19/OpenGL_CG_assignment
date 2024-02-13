@@ -1,0 +1,233 @@
+# depslib dependency file v1.0
+1707729445 source:c:\users\victus\desktop\edctn\aastu\sweg4\cg\opengl_assignment\main.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	<GL/glut.h>
+
+1700485037 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1700485037 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1700485091 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1700485091 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1700485091 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\winuser.h
+
+1700485091 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1700485091 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\winerror.h
+
+1700485090 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1700485088 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\_mingw.h
+
+1700485088 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\basetsd.h
+
+1700485090 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\pshpack4.h
+
+1700485090 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\poppack.h
+
+1700485091 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\winver.h
+
+1700485088 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\dde.h
+
+1700485088 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\dlgs.h
+
+1700485088 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\commctrl.h
+	<prsht.h>
+
+1700485090 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\prsht.h
+
+1700485091 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\windef.h
+	<winnt.h>
+
+1700485091 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\wincon.h
+
+1700485090 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\winbase.h
+
+1700485091 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\wingdi.h
+
+1700485091 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\winnls.h
+
+1700485091 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\winnetwk.h
+
+1700485091 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\winreg.h
+
+1700485091 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\winsvc.h
+
+1700485088 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\cderr.h
+
+1700485088 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\ddeml.h
+
+1700485089 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\imm.h
+
+1700485089 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\lzexpand.h
+
+1700485089 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\mmsystem.h
+
+1700485089 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\nb30.h
+
+1700485090 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1700485090 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1700485088 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\basetyps.h
+
+1700485090 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\rpcdcep.h
+
+1700485090 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\rpcnsi.h
+
+1700485090 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\rpcnterr.h
+
+1700485088 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1700485090 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1700485090 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\pshpack2.h
+
+1700485091 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\winperf.h
+
+1700485088 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1700485090 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1700485089 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\objfwd.h
+	<basetyps.h>
+
+1700485091 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1700485090 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1700485090 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\rpcnsip.h
+
+1700485091 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\winspool.h
+
+1700485091 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\winsock2.h
+	<windows.h>
+
+1700485091 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1700485089 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\mswsock.h
+
+1700485089 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1700485089 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1700485090 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1700485089 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\objidl.h
+	<objfwd.h>
+
+1700485088 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\cguid.h
+
+1700485090 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\olectlid.h
+
+1700485090 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\oleauto.h
+	<oaidl.h>
+
+1700485089 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1700485090 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\oleidl.h
+	<objfwd.h>
+
+1700485091 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\gl\gl.h
+
+1700485091 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1700485088 c:\users\victus\desktop\edctn\aastu\sweg4\cg\codeblocks-ep-master\mingw\include\conio.h
+	<_mingw.h>
+
